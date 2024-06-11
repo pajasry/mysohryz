@@ -20,5 +20,5 @@ Co budete potřebovat ke stavbě hrozivého myšohryzu?
 - lepidlo Herkules
 - metr
 
-![](/img/guide/00_BUDE_POTREBA.JPG)
+![](/gh-pages/imgpages/img/guide/00_BUDE_POTREBA.JPG)
 
