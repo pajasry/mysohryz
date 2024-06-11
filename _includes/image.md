@@ -1,3 +1,3 @@
-| ![]({{include.url}}) |
-|:---------------------|
-| {{include.desc}}     |
+| ![]({{include.url | relative_url}}) |
+|:----------------------|
+| {{include.desc}}      |
