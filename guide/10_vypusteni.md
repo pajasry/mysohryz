@@ -10,11 +10,11 @@ nav_order: 9
 Myšohryz je hotový, natáhněte ho a vypusťte. Schválně, komu dojede nejdál!
 
 {%include image.md
-url="/img/guide/13_KOMPLET_02.JPG"
+url="../img/guide/13_KOMPLET_02.JPG"
 desc="Jakmile máte provázek namotaný a autíčko natažené, můžete ho vypustit!"
 %}
 
 {%include image.md
-url="/img/guide/13_KOMPLET_01.JPG"
+url="../img/guide/13_KOMPLET_01.JPG"
 desc="Váš Myšohryz by měl vypadat jako na obrázku."
 %}
